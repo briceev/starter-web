@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Introduction
 This is the introduction
+
+## Purpose 2
+Thsi is second purpose
