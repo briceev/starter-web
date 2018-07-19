@@ -11,3 +11,6 @@ This is the introduction
 
 ## Purpose 2
 Thsi is second purpose
+
+###Copyright
+Thsi is a copyright
