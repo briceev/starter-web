@@ -19,4 +19,4 @@ Thsi is second purpose
 Please fork thsi repository and then issue Pull Requests
 
 ###Copyright
-Thsi is a copyright
+Thsi is a copyright. All rights reserved
