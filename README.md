@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 Adding a line for rebasing example
 The more changes from myfeature branch
-another change
+another change hehehe:wq
 
 ## Purpose
 
