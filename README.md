@@ -14,5 +14,8 @@ This is the introduction
 ## Purpose 2
 Thsi is second purpose
 
+##How to contribute
+Please fork thsi repository and then issue Pull Requests
+
 ###Copyright
 Thsi is a copyright
