@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    brice everard brice.everard@ymail.com
 
 # THANKS
 
